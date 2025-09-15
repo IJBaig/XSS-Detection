@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>XSS Attack Example</title>
+</head>
+<body>
+  <h1>Welcome</h1>
+  <p>Normal text...</p>
+  <img src="x" onerror="alert('XSS detected!')" />
+  <a href="#" onclick="javascript:alert('Hacked!')">Click me</a>
+  <script>alert('Injected!');</script>
+</body>
+</html>
