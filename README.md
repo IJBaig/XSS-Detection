@@ -62,9 +62,9 @@ cd xss-detection
 ```
 
 
-1. Place your HTML file in the `test/` directory.
+2. Place your HTML file in the `test/` directory.
 
-2. Run the Python test script:
+3. Run the Python test script:
 
 ```bash
 python src/test_xss_detection.py
