@@ -95,5 +95,5 @@ The training process is implemented entirely in a Jupyter Notebook:
 ## 📄 Report
 
 For a detailed explanation of the project's methodology, implementation, and results, refer to:  
-📁 📄 `[Full Project Report](ProjectReport.pdf)`
+📁 📄 [Full Project Report](ProjectReport.pdf)
 
